@@ -10,6 +10,7 @@
 
 <body>
     <h1>hello world</h1>
+    <p>lorem ipsum</p>
 </body>
 
 </html>
